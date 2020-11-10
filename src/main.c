@@ -15,5 +15,7 @@
 int main(void)
 {
 
-	for(;;);
+	//for(;;);
+while(1);
+
 }
